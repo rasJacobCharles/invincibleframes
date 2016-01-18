@@ -1,0 +1,8 @@
+{
+"username": "invinci5_site",
+"password":"UqJ(m7W#QE+7",
+"dsn": "mysql:host=localhost;dbname=invinci5_data",
+"host": "localhost",
+"database": "invinci5_data",
+"driver": "pdo_mysql"
+}

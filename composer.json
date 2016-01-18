@@ -1,0 +1,14 @@
+{
+    "name": "vendor/invframe",
+    "description": "Description of project invframe.",
+    "authors": [
+        {
+            "name": "Jacob",
+            "email": "jacob@webcapacity.co.uk"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "dev-master",
+        "doctrine/doctrine-bundle": "dev-master"
+    }
+}

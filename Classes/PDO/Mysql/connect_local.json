@@ -1,0 +1,8 @@
+{
+"username": "root",
+"password":"",
+"dsn": "mysql:host=localhost;dbname=invinci5_data",
+"host": "localhost",
+"database": "invframes",
+"driver": "pdo_mysql"
+}
