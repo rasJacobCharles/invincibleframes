@@ -1,6 +1,0 @@
-## YAML Template.
----
-username: root
-password: 
-database: invframes
-driver: pdo_mysql
